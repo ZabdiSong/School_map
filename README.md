@@ -40,3 +40,7 @@ Official instructions: https://docs.github.com/en/pages/getting-started-with-git
 ## Photo sources
 
 The school guides link to image sources for credits and usage information. A Chapel Hill campus photograph is also used for the Chapel Hill campus-setting card. Regional emoji are illustrative motifs, not official seals. Activities are exploration ideas rather than scheduled events.
+
+## Free map service
+
+This version uses Leaflet with standard OpenStreetMap tiles. No account, payment card, or API key is required. Keep the visible map attribution. The shared tile service is intended for normal interactive viewing, has limited capacity and no uptime guarantee, and must not be used for bulk or offline downloads. Policy: https://operations.osmfoundation.org/policies/tiles/
